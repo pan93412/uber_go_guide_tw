@@ -62,7 +62,7 @@ row before the </tbody></table> line.
 
 ## 版本
 
-- 目前版本：[[2023-03-04] commit:#170](https://github.com/uber-go/guide/commit/ac884febde0af5dc6821949de4cf3e921cef7a3d)
+- 目前版本：[[2023-03-22] commit:#176](https://github.com/uber-go/guide/commit/a61a8f5fb464715f196a2040afe744f7766ae91b)
 - 如果讀者發現原版本有任何更新、問題與內容的改進，歡迎大家幫忙貢獻到此專案中
 
 ## 目錄
