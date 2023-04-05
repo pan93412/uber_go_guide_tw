@@ -308,7 +308,7 @@ sVals[1].Read()
 //
 //  sVals[1].Write("test")
 
-sPtrs := map[int]*S{()1: {"A"}}
+sPtrs := map[int]*S{1: {"A"}}
 
 // 如果 map 儲存的是指標，則可以呼叫 Read 和 Write，
 // 因為指標本身就可以尋址。
